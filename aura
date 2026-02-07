@@ -31,7 +31,7 @@ local corner = Instance.new("UICorner")
 corner.CornerRadius = UDim.new(0, 8)
 corner.Parent = label
 
-task.delay(15, function()
+task.delay(9, function()
     if gui and gui.Parent then
         gui:Destroy()
     end
