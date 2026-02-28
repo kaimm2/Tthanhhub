@@ -7,5 +7,5 @@
    ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════
 ]]--
 
-getgenv().SCRIPT_KEY = "6aa6e0b6-2221-4cc4-846e-7228936e8fdb"
+getgenv().SCRIPT_KEY = "KEYLESS"
 loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/c86ebbc0c5e788851783fb16e919db4f0aded097eed8f9cdbb095550a0e95fb5/download"))()
