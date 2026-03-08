@@ -17,4 +17,4 @@ print("Tthanh On Top!")
 task.wait(0.1)
 
 getgenv().SCRIPT_KEY = "6aa6e0b6-2221-4cc4-846e-7228936e8fdb"
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/5f1735dd6e3f59c0131c821d41681c7b6a6669c5d208872d47e0266e8a8004e7/download"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/78fb48056c47872b2ae55cea7e79c358b71576c2330fdbbffe3a116defc1294b/download"))()
